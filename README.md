@@ -1,5 +1,7 @@
 # react-realtime-analytics
 
+![CI](https://github.com/Shaisolaris/react-realtime-analytics/actions/workflows/ci.yml/badge.svg)
+
 Real-time analytics dashboard built with Next.js 14, WebSocket streaming, and Recharts. Features live KPI cards with pulse indicators, streaming event feed, traffic area charts, device donut charts, geographic breakdown, and page-level metrics — all updating in real time via a custom WebSocket server with simulated production-scale data.
 
 ## Stack
